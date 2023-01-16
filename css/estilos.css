@@ -1,0 +1,45 @@
+*
+p {  
+    color: red;
+    width: 300px;
+}
+/**
+ esto es comentario dentro de una documento de CSS
+*/
+h1 {
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /**padding-top: 20px;
+    padding-bottom: 15px;
+    paddingleft: 15px;
+    padding-right: 20px;*/
+    padding: 30px;
+    margin: 30mp;
+    font-weight: bold;
+    color:grey
+}
+
+section {
+    width: 320px;
+    padding: 50px;
+    border: 15px solid gray;
+    margin: 20;
+  }
+
+  #mi_parrafo {
+    color: yellow;
+    font-size: 23px;
+    border: 1px solid orange
+  }
+
+  .encasa {
+    font-weight: bold;
+    color: lightblue;
+  } 
+
+section h1 {
+    font-weight: 100px;
+}
